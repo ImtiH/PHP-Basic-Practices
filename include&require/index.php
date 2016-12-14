@@ -14,3 +14,9 @@
 
 <!--     <?php include('footer.php'); ?>-->
      <?php require('footer.php'); ?>
+
+<!--     The difference between include();  and require(); is
+        -> If thee is something missing / bug while including the file, it generates an error Notice for that particlar error/mistake. But all the rest parts will work fine.
+        -> Whereas, with require(); also does the same as include(); but if there is any big while requiring the file; it will generate a error notice and won't execute any code from and below that point.
+
+-->

@@ -16,7 +16,7 @@
         <input type="text" name="mail" placeholder="Mail">
         <br>
 
-        <label for="contact">Name:</label>
+        <label for="contact">Contact:</label>
         <input type="text" name="contact" placeholder="Contact">
         <br>
 

@@ -1,5 +1,7 @@
 <?php
 
+//global variables van be accessed from inside the function(if declared outside the function) or from outside the function (if declared inside the function)
+// Super Globals are some built in function of PHP that can be accessed from anywhere/any file of the project.
 
  $something  = " A variable"; // this variable is outside the funnction.
 

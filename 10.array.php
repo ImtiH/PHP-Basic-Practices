@@ -33,6 +33,7 @@ echo $vat1[0]. " " .  $vat[1];
 echo "<br>";
 
 //--------------
+//Associative Array
 // key  => value
 
 $details = array(
