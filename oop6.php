@@ -1,7 +1,7 @@
 <?php
 
 
-//Static propert and MEthod
+//Static property and MEthod
 
 
 class durjoy{

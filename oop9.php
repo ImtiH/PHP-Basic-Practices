@@ -11,7 +11,7 @@ class aclass{
 
 $aobject  = new aclass();
 
-// Construct function will be run instantly once the class is instentiated.It does not require to be run manually.
+// Construct function will  run instantly once the class is instentiated.It does not require to be run manually.
 echo "<br>";
 
 class janina{
